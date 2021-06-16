@@ -15,7 +15,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/trade")
 public class TradeController {
 
-
     @Autowired
     private UserApi userApi;
 
